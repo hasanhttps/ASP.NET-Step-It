@@ -1,18 +1,154 @@
-html {
-  font-size: 14px;
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+select{
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    background-color: transparent;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+option{
+    background-color: #1d1d1f;
 }
 
-body {
-  margin-bottom: 60px;
+header{
+    height: 60px;
+    display: flex;
+    background-color: #1d1d1f;
+    justify-content: space-around;
+}
+
+header .leftmenu{
+    gap: 50px;
+    display: flex;
+    align-items: center;
+}
+
+header .leftmenu nav{
+    gap: 20px;
+    display: flex;
+    color: white;
+}
+
+header .leftmenu nav a{
+    color:white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+header .rightmenu{
+    gap: 18px;
+    display: flex;
+    align-items: center;
+}
+
+header .rightmenu a{
+    height: 24px;
+    width: 120px;
+    border: none;
+    display: flex;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    align-items: center;
+    text-decoration: none;
+    background: #3963ff;
+    justify-content: center;
+}
+
+main{
+    min-height: calc(100vh - 397px);
+}
+
+footer{
+    color: white;
+    display: flex;
+    height: 337px;
+    align-items: end;
+    justify-content: center;
+    background-color: #111217;
+}
+
+footer .container{
+    gap: 20px;
+    width: 1338px;
+    display: flex;
+    height: 288.95px;
+    padding: 0px 20px;
+    flex-direction: column;
+}
+
+footer .container .upper-section{
+    gap: 10px;
+    width: 1298px;
+    display: flex;
+    height: 205.95px;
+}
+
+footer .container .upper-section p, a{
+    font-size: 14px;
+}
+
+footer .container .upper-section div{
+    gap: 16px;
+    width: 271px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer .container .upper-section div a{
+    cursor: pointer;
+    color: #838485;
+}
+
+footer .container .upper-section .contact .cominucations{
+    gap: 20px;
+    height: 168px;
+    width: 394px;
+    display: flex;
+    flex-direction: row;
+}
+
+footer .container .upper-section .contact .cominucations section{
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer .container .upper-section .contact .cominucations .comunication1{
+    width: 144.27px !important;
+}
+
+footer .container .upper-section .contact .cominucations .comunication2{
+    width: 135.73px !important;
+}
+
+footer .lower-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .lower-section div{
+    gap: 20px;
+    display: flex;
+}
+
+footer .lower-section div a{
+    width: 24px;
+    height: 24px;
+    display: flex;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    background-color: #838485;
 }

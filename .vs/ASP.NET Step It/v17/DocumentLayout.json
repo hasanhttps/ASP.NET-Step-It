@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|c:\\users\\hasan\\source\\repos\\asp.net step it\\asp.net step it\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|solutionrelative:asp.net step it\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|c:\\users\\hasan\\source\\repos\\asp.net step it\\asp.net step it\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|solutionrelative:asp.net step it\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|c:\\users\\hasan\\source\\repos\\asp.net step it\\asp.net step it\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|solutionrelative:asp.net step it\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|c:\\users\\hasan\\source\\repos\\asp.net step it\\asp.net step it\\views\\shared\\partials\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB0D2430-1C5B-4F55-AC1B-86AC33FE61C5}|ASP.NET Step It\\ASP.NET Step It.csproj|solutionrelative:asp.net step it\\views\\shared\\partials\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,56 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASP.NET Step It\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASP.NET Step It\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T21:11:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Step It\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET Step It\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:26:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Step It\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.NET Step It\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:26:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Shared\\Partials\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Step It\\Views\\Shared\\Partials\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET Step It\\ASP.NET Step It\\Views\\Shared\\Partials\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASP.NET Step It\\Views\\Shared\\Partials\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:25:45.1Z"
             }
           ]
         }

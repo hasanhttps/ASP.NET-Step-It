@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET Step It")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02a90706b91e4b46d5554971e3e4b4826025b036")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET Step It")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET Step It")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

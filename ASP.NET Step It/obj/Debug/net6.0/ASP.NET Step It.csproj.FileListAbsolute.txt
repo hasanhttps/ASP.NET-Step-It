@@ -1,0 +1,31 @@
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\appsettings.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.staticwebassets.runtime.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.exe
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.deps.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.runtimeconfig.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.dll
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\bin\Debug\net6.0\ASP.NET Step It.pdb
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.AssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.RazorAssemblyInfo.cache
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.RazorAssemblyInfo.cs
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.sourcelink.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Step It.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Step It.props
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Step It.props
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Step It.props
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Step It.styles.css
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Step It.bundle.scp.css
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.dll
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\refint\ASP.NET Step It.dll
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.pdb
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ASP.NET Step It.genruntimeconfig.cache
+C:\Users\hasan\source\repos\ASP.NET Step It\ASP.NET Step It\obj\Debug\net6.0\ref\ASP.NET Step It.dll
